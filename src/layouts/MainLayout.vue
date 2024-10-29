@@ -18,4 +18,5 @@ import NavBar from "src/components/NavBar.vue";
 import Header from "src/components/HeaderBanner.vue";
 import Lessons from "src/components/Lessons.vue";
 import Footer from "src/components/Footer.vue";
+
 </script>

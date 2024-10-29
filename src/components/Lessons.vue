@@ -51,7 +51,7 @@
           </ul>
         </div>
         <div class="col-12 text-center text-h6" style="overflow-wrap: break-word;" >
-          All platforms in one Go
+          Lorem ipsum dolor sit amet 
         </div>
       </div>
     </div>
@@ -62,14 +62,11 @@
         class="text-h5 cursor-pointer "
         style="text-decoration: none;"
         href="#"
-        >Full stack development using quasar and aws-amplify framework</a
+        >Lorem ipsum dolor sit amet consectetur Nihil ullam minima quisquam maiores eaque?</a
       >
     </div>
       <p>
-        In this course you will learn how rto build production application
-        targeted for multiple environment like Web , mobile and desktop
-        applications usign Quasar framework and also create a serverless backemd
-        using aws-amplify framework
+       Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem minus at delectus tenetur ut! Suscipit laboriosam vero cumque voluptate iste magnam tempore adipisci quod rerum quia, placeat quas, asperiores sint!
       </p>
     </div>
     </div>

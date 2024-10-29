@@ -6,7 +6,7 @@
           Learn fullstack development form industry experts
         </h4>
         <h6 class="text-center q-mb-sm">
-          Join codeguru.io community today to get started
+          Lorem ipsum dolor sit amet cons m sitgnam dolor.
         </h6>
         <q-input class="bg-white q-mb-sm" outlined label="Your email">
           <template v-slot:prepend>
@@ -49,3 +49,4 @@ function simulateProgress(index) {
   }, 3000);
 }
 </script>
+
